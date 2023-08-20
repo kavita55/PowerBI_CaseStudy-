@@ -11,10 +11,10 @@ In this project, we will explore how to perform customer classification using Po
 
 ## Introduction
 
-Ninja Telecommunications is an Internet Service Provider in Nigeria.
-To support their revenue drive and marketing effort, they want to have a better understanding of their customers, especially with regards to how they use their Internet Data Plans.
-Ninja Telecoms has over the past 6 months offered different types of Free Internet Data to their customers as incentives based on anything from new signups, data plans, locations and other special promos.
-The company would like to be more efficient in their Free Data Offerings and has provided 6 months customer data for profiling before further analysis.
+Ninja Telecommunications is an Internet Service Provider in Nigeria.<br>
+To support their revenue drive and marketing effort, they want to have a better understanding of their customers, especially with regards to how they use their Internet Data Plans.<br>
+Ninja Telecoms has over the past 6 months offered different types of Free Internet Data to their customers as incentives based on anything from new signups, data plans, locations and other special promos.<br>
+The company would like to be more efficient in their Free Data Offerings and has provided 6 months customer data for profiling before further analysis.<br>
 
 ## Data Preparation
 
@@ -25,11 +25,11 @@ The company would like to be more efficient in their Free Data Offerings and has
 ## Customer Segmentation
 A customer profiling for further analysis. This profiling should be based on the below rules:
 
-Assigned Scores →	20	15	10	5	1
- 	 	 	 	 	 
-Indicators ↓	 	 	 	 	 
-Loyalty	Purchased Data Every Month	Purchased Data 5 out of 6 months	Purchased Data 4 out of Six Months	Purchased Data less than 4 out of 6 months	Did not purchase data in the 6 months period
-Bonus Usage	Did not use bonus at all in 6 months	Did not use bonus at all in 5 out of 6 months	Did not use bonus at all in 4 out of 6 months	Did not use bonus at all in less than 4 out of 6 months	Used bonus data in all of the 6 months
+| Assigned Scores | 20 | 15 | 10 |  5 |  1 |
+|-----------------|----|----|----|----|----|
+| Loyalty         | Purchased Data Every Month                | Purchased Data 5 out of 6 months            | Purchased Data 4 out of 6 months         | Purchased Data less than 4 out of 6 months | Did not purchase data in the 6 months period |
+| Bonus Usage     | Did not use bonus at all in 6 months      | Did not use bonus at all in 5 out of 6 months | Did not use bonus at all in 4 out of 6 months | Did not use bonus at all in less than 4 out of 6 months | Used bonus data in all of the 6 months       |
+
 
 
 Based on the customers final scores on the above, classify the customers into the following:

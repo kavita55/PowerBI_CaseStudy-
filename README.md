@@ -22,7 +22,7 @@ Power BI is a powerful business analytics tool developed by Microsoft that allow
 Here are some of the projects included in this repository:
 
 1. **Customer Classification**: We will explore how to perform customer classification using Power BI's Data Analysis Expressions (DAX) language and the Transform Data function.
-
+2. **NYC Vehicle Collision**: To identify critical locations for collisions, and try to prevent accidents in the future.
 
 
 Each project folder contains the Power BI file, along with any associated data files or documentation required to understand the context and data sources used.

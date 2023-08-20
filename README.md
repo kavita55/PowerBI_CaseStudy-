@@ -21,7 +21,7 @@ Power BI is a powerful business analytics tool developed by Microsoft that allow
 
 Here are some of the projects included in this repository:
 
-1. **Customer Classification**: A project demonstrating how to analyze sales data, track key performance indicators, and present sales trends using different visualizations.
+1. **Customer Classification**: We will explore how to perform customer classification using Power BI's Data Analysis Expressions (DAX) language and the Transform Data function.
 
 
 

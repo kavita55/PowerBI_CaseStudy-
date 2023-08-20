@@ -12,9 +12,9 @@ In this project, we will explore how to perform customer classification using Po
 ## Introduction
 
 Ninja Telecommunications is an Internet Service Provider in Nigeria.<br>
-To support their revenue drive and marketing effort, they want to have a better understanding of their customers, especially with regards to how they use their Internet Data Plans.<br>
-Ninja Telecoms has over the past 6 months offered different types of Free Internet Data to their customers as incentives based on anything from new signups, data plans, locations and other special promos.<br>
-The company would like to be more efficient in their Free Data Offerings and has provided 6 months customer data for profiling before further analysis.<br>
+To support their revenue drive and marketing effort, they want to have a better understanding of their customers, especially with regard to how they use their Internet Data Plans.<br>
+Ninja Telecoms has over the past 6 months offered different types of Free Internet Data to their customers as incentives based on anything from new signups, data plans, locations, and other special promos.<br>
+The company would like to be more efficient in its Free Data Offerings and has provided 6 months of customer data for profiling before further analysis.<br>
 
 ## Data Preparation
 
@@ -32,12 +32,12 @@ A customer profiling for further analysis. This profiling should be based on the
 
 
 
-Based on the customers final scores on the above, classify the customers into the following:
+Based on the customer's final scores on the above, classify the customers into the following:<br>
  
-Tier 1 Priority Service – Above 85% 
-Tier 2 Priority Service – Between 75% and 85%
-Tier 3 Priority Service + Incentives – Above 60% and Less than 75%
-Tier 4 Priority Marketing + Incentives – Less than or equal to 60% 
+Tier 1 Priority Service – Above 85% <br>
+Tier 2 Priority Service – Between 75% and 85%<br>
+Tier 3 Priority Service + Incentives – Above 60% and Less than 75%<br>
+Tier 4 Priority Marketing + Incentives – Less than or equal to 60% <br>
 
 
 ## Conclusion
